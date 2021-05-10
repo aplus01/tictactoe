@@ -1,0 +1,22 @@
+{
+  "name": "tictactoe",
+  "version": "1.0.0",
+  "description": "Vanilla JS implementation of tic tac toe",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aplus01/tictactoe.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aplus01/tictactoe/issues"
+  },
+  "homepage": "https://github.com/aplus01/tictactoe#readme",
+  "dependencies": {
+    "prettier": "^2.3.0"
+  }
+}
